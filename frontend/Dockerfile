@@ -1,39 +1,30 @@
-FROM node:18-alpine AS base
-
-FROM base AS deps
-RUN apk add --no-cache libc6-compat
+# Stage 1: Build the Next.js application
+FROM node:18-alpine AS builder
 WORKDIR /app
 
-COPY package*.json ./
-RUN npm ci
+# Install dependencies
+COPY package.json yarn.lock ./
+RUN yarn install --frozen-lockfile
 
-FROM base AS builder
-WORKDIR /app
-COPY --from=deps /app/node_modules ./node_modules
+# Copy the rest of the application code and build it
 COPY . .
+RUN yarn build
 
-ENV NEXT_TELEMETRY_DISABLED 1
-
-RUN npm run build
-
-FROM base AS runner
+# Stage 2: Run the application in production
+FROM node:18-alpine AS runner
 WORKDIR /app
 
+# Set the NODE_ENV to production
 ENV NODE_ENV production
-ENV NEXT_TELEMETRY_DISABLED 1
 
-RUN addgroup --system --gid 1001 nodejs
-RUN adduser --system --uid 1001 nextjs
-
+# Copy only the necessary files to run the application
 COPY --from=builder /app/public ./public
-COPY --from=builder --chown=nextjs:nodejs /app/.next ./.next
+COPY --from=builder /app/.next ./.next
 COPY --from=builder /app/node_modules ./node_modules
 COPY --from=builder /app/package.json ./package.json
 
-USER nextjs
-
+# Expose the port for Cloud Run
 EXPOSE 3000
 
-ENV PORT 3000
-
-CMD ["npm", "start"]
+# Start the Next.js application
+CMD ["yarn", "start"]
