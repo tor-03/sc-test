@@ -1,0 +1,52 @@
+steps:
+  # Step 1: Build and push the Docker image for the frontend
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'gcr.io/$PROJECT_ID/frontend:$COMMIT_SHA', './frontend']
+  
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/$PROJECT_ID/frontend:$COMMIT_SHA']
+
+  # Step 2: Deploy the frontend image to Cloud Run
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'frontend-service'
+      - '--image'
+      - 'gcr.io/$PROJECT_ID/frontend:$COMMIT_SHA'
+      - '--region'
+      - 'us-central1'
+      - '--platform'
+      - 'managed'
+      - '--allow-unauthenticated'
+      - '--port'
+      - '3000'
+
+  # Step 3: Build and push the Docker image for the backend
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'gcr.io/$PROJECT_ID/backend:$COMMIT_SHA', './backend']
+  
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/$PROJECT_ID/backend:$COMMIT_SHA']
+
+  # Step 4: Deploy the backend image to Cloud Run
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'backend-service'
+      - '--image'
+      - 'gcr.io/$PROJECT_ID/backend:$COMMIT_SHA'
+      - '--region'
+      - 'us-central1'
+      - '--platform'
+      - 'managed'
+      - '--allow-unauthenticated'
+      - '--port'
+      - '8080'
+
+images:
+  - 'gcr.io/$PROJECT_ID/frontend:$COMMIT_SHA'
+  - 'gcr.io/$PROJECT_ID/backend:$COMMIT_SHA'

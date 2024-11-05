@@ -1,23 +1,23 @@
-# Use the official OpenJDK image as a base for Java 17
+# Use OpenJDK base image to build the application
 FROM openjdk:17-jdk-slim AS builder
 WORKDIR /app
 
-# Copy the Maven project files
+# Copy Maven project files
 COPY pom.xml mvnw ./
 COPY .mvn .mvn
 
-# Download Maven dependencies
+# Download dependencies
 RUN ./mvnw dependency:go-offline
 
-# Copy the rest of the application source code and build it
+# Copy the source code and build the application
 COPY src src
 RUN ./mvnw package -DskipTests
 
-# Use a smaller base image for production
+# Stage 2: Run the Spring Boot application
 FROM openjdk:17-jdk-slim
 WORKDIR /app
 
-# Copy the Spring Boot JAR file from the builder stage
+# Copy the built JAR file from the builder stage
 COPY --from=builder /app/target/*.jar app.jar
 
 # Expose the port for Cloud Run

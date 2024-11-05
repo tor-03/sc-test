@@ -6,18 +6,16 @@ WORKDIR /app
 COPY package.json yarn.lock ./
 RUN yarn install --frozen-lockfile
 
-# Copy the rest of the application code and build it
+# Copy source files and build the application
 COPY . .
 RUN yarn build
 
-# Stage 2: Run the application in production
+# Stage 2: Run the application
 FROM node:18-alpine AS runner
 WORKDIR /app
+ENV NODE_ENV=production
 
-# Set the NODE_ENV to production
-ENV NODE_ENV production
-
-# Copy only the necessary files to run the application
+# Copy the Next.js build from the builder stage
 COPY --from=builder /app/public ./public
 COPY --from=builder /app/.next ./.next
 COPY --from=builder /app/node_modules ./node_modules
@@ -26,5 +24,5 @@ COPY --from=builder /app/package.json ./package.json
 # Expose the port for Cloud Run
 EXPOSE 3000
 
-# Start the Next.js application
+# Start the application
 CMD ["yarn", "start"]
