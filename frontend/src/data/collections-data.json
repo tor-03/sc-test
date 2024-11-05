@@ -1,0 +1,2116 @@
+[
+    {
+        "id": "1",
+        "image": "/images/collections/barjasta/1.jpg",
+        "title": "Barjasta",
+        "description": "Vibrant, Detailed Designs in Our Barjasta Collection",
+        "link": "portfolio/portfolio-details/"
+    },
+    {
+        "id": "2",
+        "image": "/images/collections/barjasta/2.jpg",
+        "title": "Barjasta",
+        "description": "Vibrant, Detailed Designs in Our Barjasta Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "3",
+        "image": "/images/collections/barjasta/3.jpg",
+        "title": "Barjasta",
+        "description": "Vibrant, Detailed Designs in Our Barjasta Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "4",
+        "image": "/images/collections/barjasta/4.jpg",
+        "title": "Barjasta",
+        "description": "Vibrant, Detailed Designs in Our Barjasta Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "5",
+        "image": "/images/collections/barjasta/5.jpg",
+        "title": "Barjasta",
+        "description": "Vibrant, Detailed Designs in Our Barjasta Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "6",
+        "image": "/images/collections/barjasta/6.jpg",
+        "title": "Barjasta",
+        "description": "Vibrant, Detailed Designs in Our Barjasta Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "8",
+        "image": "/images/collections/barjasta/7.jpg",
+        "title": "Barjasta",
+        "description": "Vibrant, Detailed Designs in Our Barjasta Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "9",
+        "image": "/images/collections/barjasta/j.jpg",
+        "title": "Barjasta",
+        "description": "Vibrant, Detailed Designs in Our Barjasta Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "10",
+        "image": "/images/collections/barjasta/k.jpg",
+        "title": "Barjasta",
+        "description": "Vibrant, Detailed Designs in Our Barjasta Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "11",
+        "image": "/images/collections/barjasta/l.jpg",
+        "title": "Barjasta",
+        "description": "Vibrant, Detailed Designs in Our Barjasta Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "12",
+        "image": "/images/collections/barjasta/m.jpg",
+        "title": "Barjasta",
+        "description": "Vibrant, Detailed Designs in Our Barjasta Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "13",
+        "image": "/images/collections/gabbeh/a.jpg",
+        "title": "Gabbeh",
+        "description": "Simple, Bold Patterns Define the Gabbeh Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "14",
+        "image": "/images/collections/gabbeh/1.jpg",
+        "title": "Gabbeh",
+        "description": "Simple, Bold Patterns Define the Gabbeh Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "15",
+        "image": "/images/collections/gabbeh/c.jpg",
+        "title": "Gabbeh",
+        "description": "Simple, Bold Patterns Define the Gabbeh Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "16",
+        "image": "/images/collections/gabbeh/2.jpg",
+        "title": "Gabbeh",
+        "description": "Simple, Bold Patterns Define the Gabbeh Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "17",
+        "image": "/images/collections/gabbeh/e.jpg",
+        "title": "Gabbeh",
+        "description": "Simple, Bold Patterns Define the Gabbeh Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "18",
+        "image": "/images/collections/gabbeh/f.jpg",
+        "title": "Gabbeh",
+        "description": "Simple, Bold Patterns Define the Gabbeh Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "19",
+        "image": "/images/collections/gabbeh/3.jpg",
+        "title": "Gabbeh",
+        "description": "Simple, Bold Patterns Define the Gabbeh Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "20",
+        "image": "/images/collections/gabbeh/4.jpg",
+        "title": "Gabbeh",
+        "description": "Simple, Bold Patterns Define the Gabbeh Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "21",
+        "image": "/images/collections/gabbeh/5.jpg",
+        "title": "Gabbeh",
+        "description": "Simple, Bold Patterns Define the Gabbeh Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "22",
+        "image": "/images/collections/gabbeh/6.jpg",
+        "title": "Gabbeh",
+        "description": "Simple, Bold Patterns Define the Gabbeh Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "23",
+        "image": "/images/collections/gabbeh/7.jpg",
+        "title": "Gabbeh",
+        "description": "Simple, Bold Patterns Define the Gabbeh Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "24",
+        "image": "/images/collections/gabbeh/8.jpg",
+        "title": "Gabbeh",
+        "description": "Simple, Bold Patterns Define the Gabbeh Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "25",
+        "image": "/images/collections/gabbeh/9.jpg",
+        "title": "Gabbeh",
+        "description": "Simple, Bold Patterns Define the Gabbeh Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "26",
+        "image": "/images/collections/gabbeh/10.jpg",
+        "title": "Gabbeh",
+        "description": "Simple, Bold Patterns Define the Gabbeh Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "27",
+        "image": "/images/collections/gabbeh/11.jpg",
+        "title": "Gabbeh",
+        "description": "Simple, Bold Patterns Define the Gabbeh Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "28",
+        "image": "/images/collections/kazak/a.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "117",
+        "image": "/images/collections/kazak/a1.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "29",
+        "image": "/images/collections/kazak/b.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "119",
+        "image": "/images/collections/kazak/b1.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "30",
+        "image": "/images/collections/kazak/c.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "121",
+        "image": "/images/collections/kazak/c1.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "31",
+        "image": "/images/collections/kazak/d.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "123",
+        "image": "/images/collections/kazak/d1.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "32",
+        "image": "/images/collections/kazak/e.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "125",
+        "image": "/images/collections/kazak/e1.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "33",
+        "image": "/images/collections/kazak/f.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "127",
+        "image": "/images/collections/kazak/f1.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "128",
+        "image": "/images/collections/kazak/f2.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "34",
+        "image": "/images/collections/kazak/g.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "129",
+        "image": "/images/collections/kazak/g1.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "35",
+        "image": "/images/collections/kazak/h.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "130",
+        "image": "/images/collections/kazak/h1.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "36",
+        "image": "/images/collections/kazak/i.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "37",
+        "image": "/images/collections/kazak/j.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "132",
+        "image": "/images/collections/kazak/k.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "134",
+        "image": "/images/collections/kazak/l.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "136",
+        "image": "/images/collections/kazak/m.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "138",
+        "image": "/images/collections/kazak/n.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "140",
+        "image": "/images/collections/kazak/o.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "142",
+        "image": "/images/collections/kazak/p.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "143",
+        "image": "/images/collections/kazak/p1.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "144",
+        "image": "/images/collections/kazak/q.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "145",
+        "image": "/images/collections/kazak/q1.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "146",
+        "image": "/images/collections/kazak/r.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "147",
+        "image": "/images/collections/kazak/r1.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "148",
+        "image": "/images/collections/kazak/s.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "149",
+        "image": "/images/collections/kazak/s1.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "150",
+        "image": "/images/collections/kazak/t.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "151",
+        "image": "/images/collections/kazak/t1.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "152",
+        "image": "/images/collections/kazak/u.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "153",
+        "image": "/images/collections/kazak/u1.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "154",
+        "image": "/images/collections/kazak/v.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "155",
+        "image": "/images/collections/kazak/v1.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "156",
+        "image": "/images/collections/kazak/w.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "157",
+        "image": "/images/collections/kazak/w1.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "158",
+        "image": "/images/collections/kazak/x.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "159",
+        "image": "/images/collections/kazak/x1.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "160",
+        "image": "/images/collections/kazak/y.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "162",
+        "image": "/images/collections/kazak/z.jpg",
+        "title": "Kazak",
+        "description": "Geometric Patterns and Rich Colors in Kazak Rugs",
+        "link": "/single-blog/"
+    },
+        {
+            "id": "380",
+            "image": "/images/collections/khorjeen/new1.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "381",
+            "image": "/images/collections/khorjeen/new2.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "382",
+            "image": "/images/collections/khorjeen/new3.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "383",
+            "image": "/images/collections/khorjeen/new4.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "384",
+            "image": "/images/collections/khorjeen/new5.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "385",
+            "image": "/images/collections/khorjeen/new6.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "386",
+            "image": "/images/collections/khorjeen/new7.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "387",
+            "image": "/images/collections/khorjeen/new8.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "388",
+            "image": "/images/collections/khorjeen/new9.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "389",
+            "image": "/images/collections/khorjeen/new10.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "390",
+            "image": "/images/collections/khorjeen/new11.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "391",
+            "image": "/images/collections/khorjeen/new12.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "392",
+            "image": "/images/collections/khorjeen/new13.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "393",
+            "image": "/images/collections/khorjeen/new14.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "394",
+            "image": "/images/collections/khorjeen/new15.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "395",
+            "image": "/images/collections/khorjeen/new16.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "396",
+            "image": "/images/collections/khorjeen/new17.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "397",
+            "image": "/images/collections/khorjeen/new18.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "398",
+            "image": "/images/collections/khorjeen/new19.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "399",
+            "image": "/images/collections/khorjeen/new20.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "400",
+            "image": "/images/collections/khorjeen/new21.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "401",
+            "image": "/images/collections/khorjeen/new22.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "402",
+            "image": "/images/collections/khorjeen/new23.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "403",
+            "image": "/images/collections/khorjeen/new24.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "404",
+            "image": "/images/collections/khorjeen/new25.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "405",
+            "image": "/images/collections/khorjeen/new26.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "406",
+            "image": "/images/collections/khorjeen/new27.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "407",
+            "image": "/images/collections/khorjeen/new28.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "408",
+            "image": "/images/collections/khorjeen/new29.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "409",
+            "image": "/images/collections/khorjeen/new30.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "410",
+            "image": "/images/collections/khorjeen/new31.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "411",
+            "image": "/images/collections/khorjeen/new32.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "412",
+            "image": "/images/collections/khorjeen/new33.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "413",
+            "image": "/images/collections/khorjeen/new34.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "414",
+            "image": "/images/collections/khorjeen/new35.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "415",
+            "image": "/images/collections/khorjeen/new36.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "416",
+            "image": "/images/collections/khorjeen/new37.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "417",
+            "image": "/images/collections/khorjeen/new38.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "418",
+            "image": "/images/collections/khorjeen/new39.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+        {
+            "id": "419",
+            "image": "/images/collections/khorjeen/new40.jpg",
+            "title": "Khorjeen",
+            "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+            "link": "/single-blog/"
+        },
+    {
+        "id": "38",
+        "image": "/images/collections/khorjeen/a.jpg",
+        "title": "Khorjeen",
+        "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "39",
+        "image": "/images/collections/khorjeen/b.jpg",
+        "title": "Khorjeen",
+        "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "40",
+        "image": "/images/collections/khorjeen/c.jpg",
+        "title": "Khorjeen",
+        "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "41",
+        "image": "/images/collections/khorjeen/d.jpg",
+        "title": "Khorjeen",
+        "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "42",
+        "image": "/images/collections/khorjeen/e.jpg",
+        "title": "Khorjeen",
+        "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "43",
+        "image": "/images/collections/khorjeen/f.jpg",
+        "title": "Khorjeen",
+        "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "44",
+        "image": "/images/collections/khorjeen/g.jpg",
+        "title": "Khorjeen",
+        "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "45",
+        "image": "/images/collections/khorjeen/h.jpg",
+        "title": "Khorjeen",
+        "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "46",
+        "image": "/images/collections/khorjeen/i.jpg",
+        "title": "Khorjeen",
+        "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "47",
+        "image": "/images/collections/khorjeen/j.jpg",
+        "title": "Khorjeen",
+        "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "48",
+        "image": "/images/collections/khorjeen/k.jpg",
+        "title": "Khorjeen",
+        "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "49",
+        "image": "/images/collections/khorjeen/l.jpg",
+        "title": "Khorjeen",
+        "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "50",
+        "image": "/images/collections/khorjeen/m.jpg",
+        "title": "Khorjeen",
+        "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "51",
+        "image": "/images/collections/khorjeen/n.jpg",
+        "title": "Khorjeen",
+        "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "52",
+        "image": "/images/collections/khorjeen/o.jpg",
+        "title": "Khorjeen",
+        "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "53",
+        "image": "/images/collections/khorjeen/p.jpg",
+        "title": "Khorjeen",
+        "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "163",
+        "image": "/images/collections/khorjeen/r.jpg",
+        "title": "Khorjeen",
+        "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "164",
+        "image": "/images/collections/khorjeen/s.jpg",
+        "title": "Khorjeen",
+        "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "165",
+        "image": "/images/collections/khorjeen/kjcover picture.jpg",
+        "title": "Khorjeen",
+        "description": "Dynamic Tribal Motifs in the Khorjeen Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "55",
+        "image": "/images/collections/moroccon/a.jpg",
+        "title": "Moroccon",
+        "description": "Timeless Moroccan Patterns and Elegance",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "56",
+        "image": "/images/collections/moroccon/b.jpg",
+        "title": "Moroccon",
+        "description": "Timeless Moroccan Patterns and Elegance",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "57",
+        "image": "/images/collections/moroccon/c.jpg",
+        "title": "Moroccon",
+        "description": "Timeless Moroccan Patterns and Elegance",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "58",
+        "image": "/images/collections/moroccon/d.jpg",
+        "title": "Moroccon",
+        "description": "Timeless Moroccan Patterns and Elegance",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "559",
+        "image": "/images/collections/super-kazak/new1.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "560",
+        "image": "/images/collections/super-kazak/new2.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "561",
+        "image": "/images/collections/super-kazak/new3.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "562",
+        "image": "/images/collections/super-kazak/new4.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "563",
+        "image": "/images/collections/super-kazak/new5.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "59",
+        "image": "/images/collections/super-kazak/a.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "166",
+        "image": "/images/collections/super-kazak/a3.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "167",
+        "image": "/images/collections/super-kazak/a2.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "60",
+        "image": "/images/collections/super-kazak/b.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "168",
+        "image": "/images/collections/super-kazak/b1.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "61",
+        "image": "/images/collections/super-kazak/c.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "169",
+        "image": "/images/collections/super-kazak/c1.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "62",
+        "image": "/images/collections/super-kazak/d.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "170",
+        "image": "/images/collections/super-kazak/d1.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "63",
+        "image": "/images/collections/super-kazak/e.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "64",
+        "image": "/images/collections/super-kazak/f.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "65",
+        "image": "/images/collections/super-kazak/g.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "173",
+        "image": "/images/collections/super-kazak/g1.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "66",
+        "image": "/images/collections/super-kazak/h.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "174",
+        "image": "/images/collections/super-kazak/h1.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "67",
+        "image": "/images/collections/super-kazak/i.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "175",
+        "image": "/images/collections/super-kazak/i2.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "68",
+        "image": "/images/collections/super-kazak/j.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "176",
+        "image": "/images/collections/super-kazak/j1.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "69",
+        "image": "/images/collections/super-kazak/k.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "70",
+        "image": "/images/collections/super-kazak/l.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "178",
+        "image": "/images/collections/super-kazak/l1.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "71",
+        "image": "/images/collections/super-kazak/m.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "179",
+        "image": "/images/collections/super-kazak/m1.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "72",
+        "image": "/images/collections/super-kazak/n.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "180",
+        "image": "/images/collections/super-kazak/n1.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "73",
+        "image": "/images/collections/super-kazak/o.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "181",
+        "image": "/images/collections/super-kazak/o1.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "74",
+        "image": "/images/collections/super-kazak/p.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "75",
+        "image": "/images/collections/super-kazak/q.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "184",
+        "image": "/images/collections/super-kazak/r.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "186",
+        "image": "/images/collections/super-kazak/s.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "187",
+        "image": "/images/collections/super-kazak/skcover Picture.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "188",
+        "image": "/images/collections/super-kazak/t.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "189",
+        "image": "/images/collections/super-kazak/u.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "190",
+        "image": "/images/collections/super-kazak/v.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "191",
+        "image": "/images/collections/super-kazak/v1.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "192",
+        "image": "/images/collections/super-kazak/w.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "193",
+        "image": "/images/collections/super-kazak/x.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "194",
+        "image": "/images/collections/super-kazak/x1.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "195",
+        "image": "/images/collections/super-kazak/y.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "196",
+        "image": "/images/collections/super-kazak/y1.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "197",
+        "image": "/images/collections/super-kazak/z.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "198",
+        "image": "/images/collections/super-kazak/z1.jpg",
+        "title": "Super Kazak",
+        "description": "Intricate, Regional Designs in Super Kazak Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "776",
+        "image": "/images/collections/tribal/new1.jpg",
+        "title": "Tribal",
+        "description": "Authentic Tribal Designs with Cultural Motifs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "777",
+        "image": "/images/collections/tribal/new2.jpg",
+        "title": "Tribal",
+        "description": "Authentic Tribal Designs with Cultural Motifs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "778",
+        "image": "/images/collections/tribal/new3.jpg",
+        "title": "Tribal",
+        "description": "Authentic Tribal Designs with Cultural Motifs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "76",
+        "image": "/images/collections/tribal/a.jpg",
+        "title": "Tribal",
+        "description": "Authentic Tribal Designs with Cultural Motifs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "77",
+        "image": "/images/collections/tribal/b.jpg",
+        "title": "Tribal",
+        "description": "Authentic Tribal Designs with Cultural Motifs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "78",
+        "image": "/images/collections/tribal/c.jpg",
+        "title": "Tribal",
+        "description": "Authentic Tribal Designs with Cultural Motifs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "79",
+        "image": "/images/collections/tribal/d.jpg",
+        "title": "Tribal",
+        "description": "Authentic Tribal Designs with Cultural Motifs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "80",
+        "image": "/images/collections/tribal/e.jpg",
+        "title": "Tribal",
+        "description": "Authentic Tribal Designs with Cultural Motifs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "81",
+        "image": "/images/collections/tribal/f.jpg",
+        "title": "Tribal",
+        "description": "Authentic Tribal Designs with Cultural Motifs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "82",
+        "image": "/images/collections/tribal/g.jpg",
+        "title": "Tribal",
+        "description": "Authentic Tribal Designs with Cultural Motifs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "83",
+        "image": "/images/collections/tribal/h.jpg",
+        "title": "Tribal",
+        "description": "Authentic Tribal Designs with Cultural Motifs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "84",
+        "image": "/images/collections/tribal/i.jpg",
+        "title": "Tribal",
+        "description": "Authentic Tribal Designs with Cultural Motifs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "85",
+        "image": "/images/collections/tribal/j.jpg",
+        "title": "Tribal",
+        "description": "Authentic Tribal Designs with Cultural Motifs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "86",
+        "image": "/images/collections/ushak/a.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "87",
+        "image": "/images/collections/ushak/a2.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "88",
+        "image": "/images/collections/ushak/a3.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "89",
+        "image": "/images/collections/ushak/a4.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "90",
+        "image": "/images/collections/ushak/a5.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "91",
+        "image": "/images/collections/ushak/a6.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "92",
+        "image": "/images/collections/ushak/a7.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "93",
+        "image": "/images/collections/ushak/a8.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "94",
+        "image": "/images/collections/ushak/a9.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "95",
+        "image": "/images/collections/ushak/a10.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "96",
+        "image": "/images/collections/ushak/a11.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "97",
+        "image": "/images/collections/ushak/a12.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "98",
+        "image": "/images/collections/ushak/a13.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "99",
+        "image": "/images/collections/ushak/a14.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "100",
+        "image": "/images/collections/ushak/a15.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "101",
+        "image": "/images/collections/ushak/a16.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "199",
+        "image": "/images/collections/ushak/a17.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "200",
+        "image": "/images/collections/ushak/aCover Picture.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "87",
+        "image": "/images/collections/ushak/b.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "201",
+        "image": "/images/collections/ushak/b1.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "88",
+        "image": "/images/collections/ushak/c.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "202",
+        "image": "/images/collections/ushak/c1.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "89",
+        "image": "/images/collections/ushak/d.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "203",
+        "image": "/images/collections/ushak/d1.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "91",
+        "image": "/images/collections/ushak/f.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "204",
+        "image": "/images/collections/ushak/f1.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "92",
+        "image": "/images/collections/ushak/g.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "93",
+        "image": "/images/collections/ushak/h.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "94",
+        "image": "/images/collections/ushak/i.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "95",
+        "image": "/images/collections/ushak/j.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "96",
+        "image": "/images/collections/ushak/k.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "97",
+        "image": "/images/collections/ushak/l.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "98",
+        "image": "/images/collections/ushak/m.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "99",
+        "image": "/images/collections/ushak/n.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "100",
+        "image": "/images/collections/ushak/o.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "101",
+        "image": "/images/collections/ushak/p.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "102",
+        "image": "/images/collections/ushak/q.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "103",
+        "image": "/images/collections/ushak/r.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "104",
+        "image": "/images/collections/ushak/s.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "105",
+        "image": "/images/collections/ushak/t.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "106",
+        "image": "/images/collections/ushak/u.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "205",
+        "image": "/images/collections/ushak/v.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "206",
+        "image": "/images/collections/ushak/w.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "207",
+        "image": "/images/collections/ushak/x.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "208",
+        "image": "/images/collections/ushak/y.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "209",
+        "image": "/images/collections/ushak/z.jpg",
+        "title": "Ushak",
+        "description": "Classic Turkish Patterns in the Ushak Collection",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "687",
+        "image": "/images/collections/vintage/a2.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "688",
+        "image": "/images/collections/vintage/a3.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "689",
+        "image": "/images/collections/vintage/a4.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "690",
+        "image": "/images/collections/vintage/a5.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "691",
+        "image": "/images/collections/vintage/a6.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "692",
+        "image": "/images/collections/vintage/a7.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "693",
+        "image": "/images/collections/vintage/a8.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "694",
+        "image": "/images/collections/vintage/a9.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "695",
+        "image": "/images/collections/vintage/a10.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "696",
+        "image": "/images/collections/vintage/a11.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "697",
+        "image": "/images/collections/vintage/a12.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "698",
+        "image": "/images/collections/vintage/a13.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "699",
+        "image": "/images/collections/vintage/a14.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "700",
+        "image": "/images/collections/vintage/a15.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "701",
+        "image": "/images/collections/vintage/a16.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "702",
+        "image": "/images/collections/vintage/a17.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "703",
+        "image": "/images/collections/vintage/a18.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "707",
+        "image": "/images/collections/vintage/a19.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "710",
+        "image": "/images/collections/vintage/aCover Picture.jpg",
+        "title": "Vintage Tabraiz",
+        "description": "Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "708",
+        "image": "/images/collections/vintage/b.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "709",
+        "image": "/images/collections/vintage/c.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "212",
+        "image": "/images/collections/vintage/c1.jpg",
+        "title": "Vintage Tabraiz",
+        "description": "Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "213",
+        "image": "/images/collections/vintage/d1.jpg",
+        "title": "Vintage Tabraiz",
+        "description": "Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "111",
+        "image": "/images/collections/vintage/e.jpg",
+        "title": "Vintage Tabraiz",
+        "description": "Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "112",
+        "image": "/images/collections/vintage/f.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "113",
+        "image": "/images/collections/vintage/g.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "114",
+        "image": "/images/collections/vintage/h.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "116",
+        "image": "/images/collections/vintage/j.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "213",
+        "image": "/images/collections/vintage/k.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "214",
+        "image": "/images/collections/vintage/l.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "215",
+        "image": "/images/collections/vintage/m.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "217",
+        "image": "/images/collections/vintage/o.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "218",
+        "image": "/images/collections/vintage/p.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "220",
+        "image": "/images/collections/vintage/r.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "221",
+        "image": "/images/collections/vintage/s.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "224",
+        "image": "/images/collections/vintage/v.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "225",
+        "image": "/images/collections/vintage/w.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "226",
+        "image": "/images/collections/vintage/x.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "227",
+        "image": "/images/collections/vintage/y.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "228",
+        "image": "/images/collections/vintage/z.jpg",
+        "title": "Vintage Tabraiz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "229",
+        "image": "/images/collections/vintage-heriz/new2.jpg",
+        "title": "Vintage Heriz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "230",
+        "image": "/images/collections/vintage-heriz/new1.jpg",
+        "title": "Vintage Heriz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "231",
+        "image": "/images/collections/vintage-heriz/new3.jpg",
+        "title": "Vintage Heriz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "232",
+        "image": "/images/collections/vintage-heriz/new4.jpg",
+        "title": "Vintage Heriz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "230",
+        "image": "/images/collections/vintage-heriz/new5.jpg",
+        "title": "Vintage Heriz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "233",
+        "image": "/images/collections/vintage-heriz/new6.jpg",
+        "title": "Vintage Heriz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "234",
+        "image": "/images/collections/vintage-heriz/new7.jpg",
+        "title": "Vintage Heriz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "235",
+        "image": "/images/collections/vintage-heriz/new8.jpg",
+        "title": "Vintage Heriz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "236",
+        "image": "/images/collections/vintage-heriz/new9.jpg",
+        "title": "Vintage Heriz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "237",
+        "image": "/images/collections/vintage-heriz/new10.jpg",
+        "title": "Vintage Heriz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "238",
+        "image": "/images/collections/vintage-heriz/new11.jpg",
+        "title": "Vintage Heriz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "239",
+        "image": "/images/collections/vintage-heriz/new12.jpg",
+        "title": "Vintage Heriz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "240",
+        "image": "/images/collections/vintage-heriz/new13.jpg",
+        "title": "Vintage Heriz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "241",
+        "image": "/images/collections/vintage-heriz/new14.jpg",
+        "title": "Vintage Heriz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "242",
+        "image": "/images/collections/vintage-heriz/new15.jpg",
+        "title": "Vintage Heriz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "243",
+        "image": "/images/collections/vintage-heriz/new16.jpg",
+        "title": "Vintage Heriz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "244",
+        "image": "/images/collections/vintage-heriz/new17.jpg",
+        "title": "Vintage Heriz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "245",
+        "image": "/images/collections/vintage-heriz/new18.jpg",
+        "title": "Vintage Heriz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "246",
+        "image": "/images/collections/vintage-heriz/new19.jpg",
+        "title": "Vintage Heriz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "247",
+        "image": "/images/collections/vintage-heriz/new20.jpg",
+        "title": "Vintage Heriz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    },
+    {
+        "id": "248",
+        "image": "/images/collections/vintage-heriz/new21.jpg",
+        "title": "Vintage Heriz",
+        "description": " Antique Charm and Timeless Beauty in Vintage Rugs",
+        "link": "/single-blog/"
+    }
+]

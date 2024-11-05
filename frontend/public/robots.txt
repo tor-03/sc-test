@@ -1,0 +1,11 @@
+# Allow all web crawlers to access all content
+User-agent: *
+Disallow:
+
+# Disallow specific directories or pages
+Disallow: /admin/
+Disallow: /login/
+Disallow: /not-found/
+
+# Specify the location of the sitemap
+Sitemap: https://standard-carpets.com/sitemap.xml
