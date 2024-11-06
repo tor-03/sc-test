@@ -1,8 +1,12 @@
 steps:
+  # Step 1: Build and push the frontend service image
   - name: 'gcr.io/cloud-builders/docker'
-    args: ['build', '-t', 'gcr.io/$PROJECT_ID/frontend:$COMMIT_SHA', './frontend']
+    args: ['build', '-t', 'gcr.io/$PROJECT_ID/frontend:$COMMIT_SHA', '--progress=plain', './frontend']
+  
   - name: 'gcr.io/cloud-builders/docker'
     args: ['push', 'gcr.io/$PROJECT_ID/frontend:$COMMIT_SHA']
+
+  # Step 2: Deploy frontend service to Cloud Run
   - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
     entrypoint: gcloud
     args:
@@ -18,10 +22,15 @@ steps:
       - '--allow-unauthenticated'
       - '--port'
       - '3000'
+
+  # Step 3: Build and push the backend service image
   - name: 'gcr.io/cloud-builders/docker'
-    args: ['build', '-t', 'gcr.io/$PROJECT_ID/backend:$COMMIT_SHA', './backend']
+    args: ['build', '-t', 'gcr.io/$PROJECT_ID/backend:$COMMIT_SHA', '--progress=plain', './backend']
+  
   - name: 'gcr.io/cloud-builders/docker'
     args: ['push', 'gcr.io/$PROJECT_ID/backend:$COMMIT_SHA']
+
+  # Step 4: Deploy backend service to Cloud Run
   - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
     entrypoint: gcloud
     args:
@@ -38,8 +47,11 @@ steps:
       - '--port'
       - '8080'
 
+# Additional options
 options:
   logging: CLOUD_LOGGING_ONLY
+
+# Images to include in the build artifacts for Cloud Build
 images:
   - 'gcr.io/$PROJECT_ID/frontend:$COMMIT_SHA'
   - 'gcr.io/$PROJECT_ID/backend:$COMMIT_SHA'
